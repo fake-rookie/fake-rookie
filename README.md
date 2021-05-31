@@ -1,16 +1,22 @@
-### Hi there 👋
+# Interested
 
-<!--
-**fake-rookie/fake-rookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- PLT
+- Compiler
+- Network System (e.g. `Distributed System`)
+- Operating System
+- Game Development
 
-Here are some ideas to get you started:
+# I'm a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ GUI Rookie
+
+
+## Some View of `FP`
+
+  I like `Functional Programming Language`. e.g. `Scheme`, `Haskell`, `OCaml`.
+  
+  Had a Good Theory both of `Haskell` & `OCaml`.
+  
+  `Haskell` has more **simply** & **clearly** syntax than `OCaml`.
+  
+  But also has more **SUUUUUUUUUUCK** `Tool Chain` than `OCaml`.
