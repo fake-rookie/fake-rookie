@@ -19,4 +19,4 @@
   
   `Haskell` has more **simply** & **clearly** syntax than `OCaml`.
   
-  But also has more **SUUUUUUUUUUCK** `Tool Chain` than `OCaml`. 
+  But the `stack` & `cabal` more `SUUUUUUUUUUUUUUUUUUUUUUUUCK` than `opam`
