@@ -20,9 +20,3 @@
   `Haskell` has more **simply** & **clearly** syntax than `OCaml`.
   
   But also has more **SUUUUUUUUUUCK** `Tool Chain` than `OCaml`. 
-  
-  
-  
-  
-## `Due the SUCK Toolchain`
-# **Hard to say** `Love` **with** `Haskell`
