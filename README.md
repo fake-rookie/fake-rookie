@@ -6,6 +6,13 @@
 - Operating System
 - Game Development
 
+# Hobby
+
+- (Philosophy & Mathematics) & Physics
+- Human Language
+- Movie
+- Sport(Football, Snooker etc..)
+
 # I'm a
 
 + GUI Rookie
